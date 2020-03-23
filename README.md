@@ -1,2 +1,2 @@
 # todos
-Test suit for todos app.
+Cypress test suit for todos app.
